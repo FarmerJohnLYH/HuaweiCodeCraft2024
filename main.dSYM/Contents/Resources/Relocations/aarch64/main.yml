@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/yuanhaoliu/Desktop/刘两天的工作区/华为比赛/MacOSReleasev1.1/main"
+relocations:
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _robot, symObjAddr: 0x6614, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xE9, offset: 0xE9, size: 0x8, addend: 0x0, symName: _berth, symObjAddr: 0x67F4, symBinAddr: 0x1000081E0, symSize: 0x0 }
+  - { offsetInCU: 0x177, offset: 0x177, size: 0x8, addend: 0x0, symName: _boat, symObjAddr: 0x6934, symBinAddr: 0x100008320, symSize: 0x0 }
+  - { offsetInCU: 0x1C6, offset: 0x1C6, size: 0x8, addend: 0x0, symName: _money, symObjAddr: 0x69AC, symBinAddr: 0x100008398, symSize: 0x0 }
+  - { offsetInCU: 0x1DB, offset: 0x1DB, size: 0x8, addend: 0x0, symName: _boat_capacity, symObjAddr: 0x69B0, symBinAddr: 0x10000839C, symSize: 0x0 }
+  - { offsetInCU: 0x1F0, offset: 0x1F0, size: 0x8, addend: 0x0, symName: _id, symObjAddr: 0x69B4, symBinAddr: 0x1000083A0, symSize: 0x0 }
+  - { offsetInCU: 0x205, offset: 0x205, size: 0x8, addend: 0x0, symName: _ch, symObjAddr: 0x69B8, symBinAddr: 0x1000083A4, symSize: 0x0 }
+  - { offsetInCU: 0x233, offset: 0x233, size: 0x8, addend: 0x0, symName: _gds, symObjAddr: 0x115FC, symBinAddr: 0x100012FE8, symSize: 0x0 }
+  - { offsetInCU: 0x2EBF, offset: 0x2EBF, size: 0x8, addend: 0x0, symName: __ZN5RobotC1Ev, symObjAddr: 0x0, symBinAddr: 0x100003918, symSize: 0x2C }
+  - { offsetInCU: 0x2EE7, offset: 0x2EE7, size: 0x8, addend: 0x0, symName: __ZN5BerthC1Ev, symObjAddr: 0x2C, symBinAddr: 0x100003944, symSize: 0x2C }
+  - { offsetInCU: 0x2F0F, offset: 0x2F0F, size: 0x8, addend: 0x0, symName: __Z4Initv, symObjAddr: 0x58, symBinAddr: 0x100003970, symSize: 0x1A8 }
+  - { offsetInCU: 0x2F8B, offset: 0x2F8B, size: 0x8, addend: 0x0, symName: __Z5Inputv, symObjAddr: 0x200, symBinAddr: 0x100003B18, symSize: 0x220 }
+  - { offsetInCU: 0x306F, offset: 0x306F, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x420, symBinAddr: 0x100003D38, symSize: 0xF0 }
+  - { offsetInCU: 0x30DD, offset: 0x30DD, size: 0x8, addend: 0x0, symName: __ZN5RobotC2Ev, symObjAddr: 0x510, symBinAddr: 0x100003E28, symSize: 0x14 }
+  - { offsetInCU: 0x3105, offset: 0x3105, size: 0x8, addend: 0x0, symName: __ZN5BerthC2Ev, symObjAddr: 0x524, symBinAddr: 0x100003E3C, symSize: 0x14 }
+...

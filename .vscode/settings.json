@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "__locale": "cpp",
+        "locale": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "deque": "cpp"
+    }
+}
